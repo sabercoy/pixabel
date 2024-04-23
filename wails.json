@@ -1,0 +1,10 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "pixabel",
+  "outputfilename": "pixabel",
+  "wailsjsdir": "./frontend",
+  "author": {
+    "name": "sabercoy",
+    "email": "sabianpugh12@gmail.com"
+  }
+}
